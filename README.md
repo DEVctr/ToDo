@@ -1,2 +1,2 @@
 # ToDo
-Task manager application with Java SpringBoot
+Task manager API with Java SpringBoot
